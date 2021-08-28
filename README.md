@@ -1,1 +1,1 @@
-# Pneumonia-Detector
+It is a simple Image classifier which I had made when I started  learning Machine Learning and Deep Learning Algorithms. Here we are given an X-ray Image Dataset which contains two classes Pneumonia(person with Pneumonia) and Normal(not infected).So we have trained these images through Convolutional Neural Network and at testing we have got around 95 percent accuracy. 
